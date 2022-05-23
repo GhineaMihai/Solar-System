@@ -1,2 +1,2 @@
 # Solar-System
-![Gif](Solar System.gif)
+![Gif](SolarSystem.gif)
